@@ -2,7 +2,6 @@
 ### By Kihyun Jung (Ulsan National Institute of Science and Technology, Korea)  
 📧 Email: wjk9364@gmail.com  
 
-<<<<<<< Updated upstream
 ## 📌 Overview  
 This repository contains data analysis scripts and results for O3GK using Hveto.
 
@@ -22,8 +21,3 @@ This repository contains data analysis scripts and results for O3GK using Hveto.
 
 ### 🔹 **Coherence**  
 - Contains **average coherence plots** for each vetoed channel and all corresponding vetoed events.
-=======
-All glitches are classified as blip, dot, helix, line, scratchy, and whistle.
-location: O3GK_Glitch/[glitch type]/[subsystem]/[auxiliary channel]/[date].
-Image name is Main-[main channel name]-[GPS time]-[duration] and Round[x]-[auxiliary channel name]-[GPS time]-[duration].
->>>>>>> Stashed changes
