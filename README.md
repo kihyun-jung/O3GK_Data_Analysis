@@ -13,11 +13,10 @@ This repository contains data analysis scripts and results for O3GK using Hveto.
 - Stores **images of all vetoed events** found as a result of Hveto.  
 - Glitches are classified into six categories:  
   - **Blip, Dot, Helix, Line, Scratchy, and Whistle**  
-- **File structure:**
-  - O3GK_Glitch/[glitch type]/[subsystem]/[auxiliary channel]/[date]/
+- **Folder structure:**
+  - O3GK_Glitch/[glitch type]/[subsystem]/[associated auxiliary channel name]/[date]
 - **File naming convention:**  
-  - **Main event:** `Main-[main channel name]-[GPS time]-[duration]`  
-  - **Auxiliary events:** `Round[x]-[auxiliary channel name]-[GPS time]-[duration]`
+  - **Glitch spectrogram:** `Main-[main channel name]-[GPS time]-[duration]`  
 
 ### 🔹 **Coherence**  
 - Contains **average coherence plots** for each vetoed channel and all corresponding vetoed events.
