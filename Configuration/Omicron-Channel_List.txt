@@ -1,4 +1,4 @@
-1. Main Channel
+1. Main Channel (4096 Hz)
 K1:DAC-STRAIN_C20
 
 2. 128 Hz
